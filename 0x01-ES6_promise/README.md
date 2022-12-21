@@ -1,0 +1,1 @@
+This is frontend specialization on ES6 Promises
