@@ -1,0 +1,1 @@
+This is a lesson on ES6 classes
